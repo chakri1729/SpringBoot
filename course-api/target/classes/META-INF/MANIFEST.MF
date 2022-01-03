@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: Java Brains Course API
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: CAADABALA
+Implementation-Vendor-Id: com.chakri.springboot.practice
+Build-Jdk: 1.8.0_202
+Implementation-URL: https://spring.io/projects/spring-boot/course-api
+Created-By: Maven Integration for Eclipse
+
